@@ -28,3 +28,5 @@
 + JUnit
 + Hamcrest
 + AssertJ
+### Схема БД
+![структура БД - ER-диаграмма базы данных (с «вороньими лапками»)](https://user-images.githubusercontent.com/97224620/151638722-4dbc0141-82e7-4e07-9c05-95c22b2b803d.png)
